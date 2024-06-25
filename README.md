@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Annabelle Rayson. I am currently an undergradaute student studying environmental sciences and engineering at Harvard Univeristy. I am an undergradaute researcher at the Harvard Forest.
+My name is Annabelle Rayson. I am currently an undergradaute student studying environmental sciences and engineering at Harvard Univeristy. I am an undergradaute researcher at the Harvard Forest and am passionate about limnology and aqautic sciences. 
